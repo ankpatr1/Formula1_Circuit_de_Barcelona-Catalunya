@@ -1,4 +1,4 @@
-## Developed by Ankita Patra
+
 
 # 2025_f1_predictions
 
